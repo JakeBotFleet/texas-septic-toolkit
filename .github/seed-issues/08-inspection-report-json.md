@@ -26,4 +26,4 @@ Palo Pinto County is the most common. Hood and Erath next. JSON export should wo
 
 ---
 
-*Out West Septic — outwestseptic.com — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298*

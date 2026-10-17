@@ -28,4 +28,4 @@ Wise County is northeast of Jack County. County seat is Decatur. Towns include B
 
 ---
 
-*Out West Septic — outwestseptic.com — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298*

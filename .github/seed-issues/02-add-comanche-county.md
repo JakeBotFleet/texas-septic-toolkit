@@ -9,7 +9,7 @@ Comanche County is part of the rural North Texas footprint and I'm getting reque
 
 - A directory entry for `Comanche County TX`
 - The Comanche County OSSF permitting office info (need to research current DR contact)
-- Notes about any quirks (Enhanced setbacks near Leon River? Comanche city sewer service area boundary?)
+- Notes about any quirks (enhanced setbacks near Leon River? Comanche city sewer service area boundary?)
 
 **Why**
 
@@ -27,4 +27,4 @@ Happy to do the legwork on the DR contact if you point me at where to start.
 
 ---
 
-*Out West Septic — outwestseptic.com — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298*

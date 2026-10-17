@@ -26,7 +26,7 @@ Out West Septic serves a bilingual customer base. Translating the top homeowner-
 
 **North Texas context**
 
-Hispanic population in Palo Pinto County is ~25%. Spanish is the primary language for many of our customers.
+Hispanic population in Palo Pinto County is about 25%. Spanish is the primary language for many of our customers.
 
 **Help wanted**
 
@@ -34,4 +34,4 @@ I'm not fluent enough in Spanish to write the translations confidently. Looking 
 
 ---
 
-*Out West Septic — outwestseptic.com — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298*
