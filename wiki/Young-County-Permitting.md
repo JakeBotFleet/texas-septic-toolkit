@@ -1,14 +1,14 @@
 # Young County Permitting
 
-> **Quick answer:** Young County OSSF permits are issued by the **Young County 911 Addressing and Permitting Office**. The office handles septic permits, public affidavits, installer lists, and new-address resources. Graham is the county seat.
+Young County OSSF permits are issued by the Young County 911 Addressing and Permitting Office. The office handles septic permits, public affidavits, installer lists, and new-address resources. Graham is the county seat.
 
 ## The permitting authority
 
-Young County routes OSSF permitting through the **911 Addressing and Permitting Office**. The office handles both new construction and modification OSSF applications.
+Young County routes OSSF permitting through the 911 Addressing and Permitting Office. The office handles both new construction and modification OSSF applications.
 
-- **Office:** Young County Courthouse, 516 4th St., Graham, TX
-- **Phone:** (940) 549-2030 (verify current number)
-- **Hours:** Mon–Fri 8:00am–5:00pm
+- Office: Young County Courthouse, 516 4th St., Graham, TX
+- Phone: (940) 549-2030 (verify current number)
+- Hours: Mon to Fri 8:00am to 5:00pm
 
 Always confirm current DR and fee schedule before submitting.
 
@@ -23,9 +23,9 @@ Standard TCEQ OSSF application package per Chapter 285:
 
 ## Towns served
 
-- **Graham TX** — county seat
-- **Olney TX**
-- **Newcastle TX**
+- Graham TX. County seat.
+- Olney TX.
+- Newcastle TX.
 
 ## Source
 
@@ -36,4 +36,4 @@ Standard TCEQ OSSF application package per Chapter 285:
 
 ---
 
-*Out West Septic — outwestseptic.com — TCEQ OSSF Installer I OS0041298 — Lone Camp, TX — 940.452.0598*
+*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298, Lone Camp, TX, 940.452.0598*

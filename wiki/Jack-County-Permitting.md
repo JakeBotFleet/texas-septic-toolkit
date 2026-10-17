@@ -1,14 +1,14 @@
 # Jack County Permitting
 
-> **Quick answer:** Jack County OSSF permits are issued by the **Jack County Public Works** department, which regulates and permits OSSF in unincorporated Jack County. Jacksboro is the county seat. Application forms were updated 2021-06-01; confirm the current revision before submitting.
+Jack County OSSF permits are issued by the Jack County Public Works department, which regulates and permits OSSF in unincorporated Jack County. Jacksboro is the county seat. Application forms were updated 2021-06-01; confirm the current revision before submitting.
 
 ## The permitting authority
 
-Jack County routes OSSF permitting through **Public Works**. The department handles new construction and modification OSSF applications in unincorporated Jack County.
+Jack County routes OSSF permitting through Public Works. The department handles new construction and modification OSSF applications in unincorporated Jack County.
 
-- **Office:** Jack County Courthouse, 100 N. Main St., Jacksboro, TX
-- **Phone:** (940) 567-2101 (verify current number)
-- **Hours:** Mon–Fri 8:00am–5:00pm
+- Office: Jack County Courthouse, 100 N. Main St., Jacksboro, TX
+- Phone: (940) 567-2101 (verify current number)
+- Hours: Mon to Fri 8:00am to 5:00pm
 
 Always confirm current DR and fee schedule before submitting.
 
@@ -24,10 +24,10 @@ Standard TCEQ OSSF application package per Chapter 285:
 
 ## Towns served
 
-- **Jacksboro TX** — county seat
-- **Bryson TX**
-- **Jermyn TX**
-- **Perrin TX**
+- Jacksboro TX. County seat.
+- Bryson TX.
+- Jermyn TX.
+- Perrin TX.
 
 ## Source
 
@@ -38,4 +38,4 @@ Standard TCEQ OSSF application package per Chapter 285:
 
 ---
 
-*Out West Septic — outwestseptic.com — TCEQ OSSF Installer I OS0041298 — Lone Camp, TX — 940.452.0598*
+*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298, Lone Camp, TX, 940.452.0598*

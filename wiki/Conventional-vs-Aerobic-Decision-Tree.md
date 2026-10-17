@@ -1,34 +1,34 @@
 # Conventional vs Aerobic Decision Tree
 
-> **Quick answer:** Conventional gravity is the right choice for most rural North Texas lots when you have at least 1 acre, acceptable soil, and you're outside regulated water setbacks. Aerobic treatment units (ATUs) are required when the soil won't drain, the lot is too small, or you're inside the BRA jurisdiction near Possum Kingdom Lake.
+Conventional gravity is the right choice for most rural North Texas lots when you have at least 1 acre, acceptable soil, and you're outside regulated water setbacks. Aerobic treatment units (ATUs) are required when the soil won't drain, the lot is too small, or you're inside the BRA jurisdiction near Possum Kingdom Lake.
 
 ## The decision tree
 
-1. **Is the lot ≥1 acre with usable area outside setbacks?**
-   - Yes → conventional is likely feasible. Continue.
-   - No → check county minimum lot size; ATU may be required.
+1. Is the lot 1 acre or more, with at least 100 ft of usable frontage outside setbacks?
+   - Yes. Conventional is likely feasible. Continue.
+   - No. Check county minimum lot size. ATU may be required.
 
-2. **What does the soil do?**
-   - Sandy loam, loam, well-drained clay loam (perc 1–30 min/in) → conventional works.
-   - Tight clay (perc 30–60 min/in) → conventional may work with expanded drainfield.
-   - Very tight clay (perc >60 min/in) → ATU referral.
+2. What does the soil do?
+   - Sandy loam, loam, well-drained clay loam (perc 1-30 min/in). Conventional works.
+   - Tight clay (perc 30-60 min/in). Conventional may work with expanded drainfield.
+   - Very tight clay (perc >60 min/in). ATU referral.
 
-3. **Are there setback concerns?**
-   - Inside 2,000 ft of Possum Kingdom Lake or 1,000-ft contour → BRA jurisdiction; expect ATU.
-   - 100+ ft from private well, 150+ ft from public water, 50+ ft from property line, 10+ ft from foundation, 50+ ft from surface water → conventional setback check passes.
+3. Are there setback concerns?
+   - Inside 2,000 ft of Possum Kingdom Lake or 1,000-ft contour. BRA jurisdiction. Expect ATU.
+   - 100+ ft from private well, 150+ ft from public water, 50+ ft from property line, 10+ ft from foundation, 50+ ft from surface water. Conventional setback check passes.
 
-4. **Do you have electricity at the site?**
-   - Yes → both options remain open.
-   - No → conventional is the practical choice until power is run.
+4. Do you have electricity at the site?
+   - Yes. Both options remain open.
+   - No. Conventional is the practical choice until power is run.
 
-5. **How much do you want to spend over 10 years?**
+5. How much do you want to spend over 10 years?
    - Conventional: lower install, zero electricity, no annual contract.
-   - Aerobic: higher install ($3k–$7k more), electricity ($10–$30/month), annual contract ($300–$500/year).
+   - Aerobic: higher install ($3k-$7k more), electricity ($10-$30/month), annual contract ($300-$500/year).
 
 ## When conventional wins (most of the time)
 
-- Lot is ≥1 acre
-- Soil perc 1–60 min/in
+- Lot is 1 acre or more
+- Soil perc 1-60 min/in
 - Outside BRA jurisdiction near PK Lake
 - No regulated water-body setback
 - Want low long-term cost and no recurring contract
@@ -36,13 +36,13 @@
 ## When ATU is the answer
 
 - Lot too small for conventional per county minimums
-- Soil perc >60 min/in
+- Soil perc above 60 min/in
 - Inside BRA jurisdiction near PK Lake
 - TCEQ or DR specifies ATU on the permit
 
 ## Out West Septic's position
 
-Out West Septic installs **conventional gravity systems only**. We do not install ATUs and we do not hold an aerobic maintenance contract. For ATU-required lots, we refer the aerobic work to a licensed Installer II in our network.
+Out West Septic installs conventional gravity systems only. We do not install ATUs and we do not hold an aerobic maintenance contract. For ATU-required lots, we refer the aerobic work to a licensed Installer II in our network.
 
 What this means for you:
 
@@ -59,4 +59,4 @@ What this means for you:
 
 ---
 
-*Out West Septic — outwestseptic.com — TCEQ OSSF Installer I OS0041298 — Lone Camp, TX — 940.452.0598*
+*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298, Lone Camp, TX, 940.452.0598*

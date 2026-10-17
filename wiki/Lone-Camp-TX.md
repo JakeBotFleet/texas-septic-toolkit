@@ -1,14 +1,14 @@
 # Lone Camp TX
 
-> **Quick answer:** Lone Camp is an unincorporated community in **Palo Pinto County**, Texas. It's the home base of **Out West Septic** and the operational center for the company's service area. Lone Camp is small (population ~100) but sits roughly at the geographic center of the company's conventional-gravity install footprint.
+Lone Camp is an unincorporated community in Palo Pinto County, Texas. It's the home base of Out West Septic and the operational center for the company's service area. Lone Camp is small (population about 100) but sits roughly at the geographic center of the company's conventional-gravity install footprint.
 
 ## Community profile
 
-- **Population:** ~100
-- **County:** Palo Pinto County
-- **ZIP code:** 76484
-- **GNIS feature ID:** 1340024
-- **Coordinates:** 32.7957° N, 98.0123° W
+- Population: about 100
+- County: Palo Pinto County
+- ZIP code: 76484
+- GNIS feature ID: 1340024
+- Coordinates: 32.7957° N, 98.0123° W
 
 Lone Camp is an unincorporated community in eastern Palo Pinto County, between Mineral Wells and Stephenville on the back roads. It's named for an early settler encampment, and the name has stuck.
 
@@ -16,7 +16,7 @@ Lone Camp is an unincorporated community in eastern Palo Pinto County, between M
 
 Out West Septic is operated from Lone Camp. The mailing address for the business is a Lone Camp address. Tanner Coupland (TCEQ OSSF Installer I, OS0041298) lives in the area and runs the company from this base.
 
-The company doesn't have a storefront or a public office in Lone Camp — appointments are scheduled by phone (940.452.0598) and quotes happen on-site at the customer's property.
+The company doesn't have a storefront or a public office in Lone Camp. Appointments are scheduled by phone (940.452.0598) and quotes happen on-site at the customer's property.
 
 ## Service radius
 
@@ -49,4 +49,4 @@ Lone Camp is small but central. It's the right base for a service business that 
 
 ---
 
-*Out West Septic — outwestseptic.com — TCEQ OSSF Installer I OS0041298 — Lone Camp, TX — 940.452.0598*
+*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298, Lone Camp, TX, 940.452.0598*

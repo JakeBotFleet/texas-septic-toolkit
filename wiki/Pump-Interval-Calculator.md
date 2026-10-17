@@ -1,14 +1,14 @@
 # Pump Interval Calculator
 
-> **Quick answer:** Use the [`outwestseptic_maintenance_scheduler.py`](../scripts/outwestseptic_maintenance_scheduler.py) script. Give it your tank size, household count, and (optionally) garbage disposal / water softener status. It outputs the recommended pump interval in years and exports a `.ics` calendar file for your phone.
+Use the [`outwestseptic_maintenance_scheduler.py`](../scripts/outwestseptic_maintenance_scheduler.py) script. Give it your tank size, household count, and (optionally) garbage disposal / water softener status. It outputs the recommended pump interval in years and exports a `.ics` calendar file for your phone.
 
 ## The inputs
 
-- **tank_gallons** — your tank's liquid capacity (e.g., 1000, 1250, 1500)
-- **household** — number of occupants
-- **last_pumped** — date of last pump (default: today)
-- **garbage_disposal** — yes/no
-- **water_softener** — yes/no
+- tank_gallons. Your tank's liquid capacity (e.g., 1000, 1250, 1500).
+- household. Number of occupants.
+- last_pumped. Date of last pump (default: today).
+- garbage_disposal. Yes/no.
+- water_softener. Yes/no.
 
 ## The math
 
@@ -28,10 +28,10 @@ The script encodes the conservative Texas A&M AgriLife interval table:
 
 Adjustments:
 
-- Garbage disposal → divide interval by 1.40 (40% bump in solids)
-- Water softener → divide interval by 1.15 (15% bump in solids)
+- Garbage disposal. Divide interval by 1.40 (40% bump in solids).
+- Water softener. Divide interval by 1.15 (15% bump in solids).
 
-If both apply → multiply the adjustments (1.40 × 1.15 = 1.61, divide interval by 1.61).
+If both apply, multiply the adjustments (1.40 × 1.15 = 1.61, divide interval by 1.61).
 
 ## Worked example
 
@@ -42,8 +42,8 @@ If both apply → multiply the adjustments (1.40 × 1.15 = 1.61, divide interval
 - Last pumped: 2024-06-01
 
 Base interval (1,250 × 4): 3.0 years
-Adjusted for disposal: 3.0 / 1.40 = **2.14 years**
-Next pump due: 2024-06-01 + 780 days ≈ **2026-07-21**
+Adjusted for disposal: 3.0 / 1.40 = 2.14 years
+Next pump due: 2024-06-01 + 780 days = about 2026-07-21
 
 ## CLI usage
 
@@ -85,4 +85,4 @@ The `.ics` file imports into Google Calendar, Apple Calendar, Outlook, or any ot
 
 ---
 
-*Out West Septic — outwestseptic.com — TCEQ OSSF Installer I OS0041298 — Lone Camp, TX — 940.452.0598*
+*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298, Lone Camp, TX, 940.452.0598*

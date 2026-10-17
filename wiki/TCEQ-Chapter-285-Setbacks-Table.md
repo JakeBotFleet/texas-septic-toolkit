@@ -1,6 +1,6 @@
 # TCEQ Chapter 285 Setbacks Table
 
-> **Quick answer:** Chapter 285 sets minimum setback distances from the septic system components (tank and drainfield) to features like water wells, surface water, property lines, and structures. Setbacks are enforced by the county Designated Representative at application review. Failing a setback is one of the most common reasons applications get rejected in Palo Pinto County.
+Chapter 285 sets minimum setback distances from the septic system components (tank and drainfield) to features like water wells, surface water, property lines, and structures. Setbacks are enforced by the county Designated Representative at application review. Failing a setback is one of the most common reasons applications get rejected in Palo Pinto County.
 
 ## Minimum setbacks per §285.32
 
@@ -22,10 +22,10 @@ These are TCEQ Chapter 285 minimums. Some counties or special jurisdictions (BRA
 
 Setbacks are the most common reason an OSSF application gets rejected on first submission. The DR checks setbacks against the site plan before approving the install. If a setback is missed:
 
-- **Too close to a well** — usually means relocating the well or relocating the system. Either is expensive.
-- **Too close to surface water** — usually means a redesign. May push the system into a worse part of the lot.
-- **Too close to property line** — usually means an easement review. Sometimes the lot is just too small for a conventional system.
-- **Too close to a utility easement** — usually means the drainfield has to move outside the easement.
+- Too close to a well usually means relocating the well or relocating the system. Either is expensive.
+- Too close to surface water usually means a redesign. May push the system into a worse part of the lot.
+- Too close to a property line usually means an easement review. Sometimes the lot is just too small for a conventional system.
+- Too close to a utility easement usually means the drainfield has to move outside the easement.
 
 The [permit checklist script](../scripts/outwestseptic_permit_checklist.py) walks through the setback checklist at the pre-quote site visit. Catching setback issues on the site visit is much cheaper than catching them after the application is filed.
 
@@ -33,9 +33,9 @@ The [permit checklist script](../scripts/outwestseptic_permit_checklist.py) walk
 
 Some counties and special jurisdictions set stricter rules than the TCEQ minimum:
 
-- **Possum Kingdom Lake BRA jurisdiction** — enhanced setbacks from the lake and tributaries. ATUs commonly required inside the boundary.
-- **Hood County Lake Granbury area** — enhanced setbacks near Lake Granbury (different authority than PK Lake).
-- **Reasonable access to surface water** — DRs may require additional setbacks if the site has a stock tank or seasonal drainage that the rule book doesn't capture.
+- Possum Kingdom Lake BRA jurisdiction. Enhanced setbacks from the lake and tributaries. ATUs commonly required inside the boundary.
+- Hood County Lake Granbury area. Enhanced setbacks near Lake Granbury (different authority than PK Lake).
+- Reasonable access to surface water. DRs may require additional setbacks if the site has a stock tank or seasonal drainage that the rule book doesn't capture.
 
 ## Source
 
@@ -46,4 +46,4 @@ Some counties and special jurisdictions set stricter rules than the TCEQ minimum
 
 ---
 
-*Out West Septic — outwestseptic.com — TCEQ OSSF Installer I OS0041298 — Lone Camp, TX — 940.452.0598*
+*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298, Lone Camp, TX, 940.452.0598*
