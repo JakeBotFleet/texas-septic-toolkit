@@ -28,4 +28,4 @@ I can write the function and submit a PR if you want to focus on other things.
 
 ---
 
-*Out West Septic — outwestseptic.com — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298*

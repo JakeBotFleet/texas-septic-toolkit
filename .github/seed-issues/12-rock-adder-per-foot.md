@@ -32,4 +32,4 @@ Output should add 30 × 50 = $1,500 to the high end of the range.
 
 ---
 
-*Out West Septic — outwestseptic.com — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298*

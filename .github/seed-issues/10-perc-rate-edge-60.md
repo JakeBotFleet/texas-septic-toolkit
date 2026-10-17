@@ -3,7 +3,7 @@ title: "[question] What happens if the perc rate is exactly 60 min/in?"
 labels: ["question"]
 ---
 
-Reading through `outwestseptic_drainfield_calc.py` and the absorption area table — the boundary case at 60 min/in is interesting.
+Reading through `outwestseptic_drainfield_calc.py` and the absorption area table, the boundary case at 60 min/in is interesting.
 
 The table goes `≤5, 5-15, 15-30, 30-60`, with the 30-60 bracket at 330 sq ft per 100 gpd. The `absorption_area_sqft` function uses `<=` for the upper bound, so 60 min/in exactly would fall into the 30-60 bracket (330 sq ft per 100 gpd).
 
@@ -21,4 +21,4 @@ Should the classification thresholds in `outwestseptic_perc_test_log.py` use `>=
 
 ---
 
-*Out West Septic — outwestseptic.com — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298*

@@ -3,7 +3,7 @@ title: "[bug] Perc test PDF: footer doesn't appear on the last page"
 labels: ["bug"]
 ---
 
-When the perc test report runs to two pages (more than ~6 holes), the second page doesn't have the Out West Septic footer.
+When the perc test report runs to two pages (more than about 6 holes), the second page doesn't have the Out West Septic footer.
 
 **Steps to reproduce**
 
@@ -32,4 +32,4 @@ Real job report from a Palo Pinto County perc test that ran 8 holes. The PDF was
 
 ---
 
-*Out West Septic — outwestseptic.com — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298*

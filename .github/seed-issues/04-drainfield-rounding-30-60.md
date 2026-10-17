@@ -24,9 +24,9 @@ Required absorption: 1650 sq ft
 
 **Expected**
 
-Per TCEQ §285.32, the 30-60 min/in bracket is **330 sq ft per 100 gpd**. So for 500 gpd that's 500 × 330 / 100 = **1,650 sq ft**. OK that's actually what I got.
+Per TCEQ §285.32, the 30-60 min/in bracket is 330 sq ft per 100 gpd. So for 500 gpd that's 500 × 330 / 100 = 1,650 sq ft. OK that's actually what I got.
 
-But the script also rounds up to whole sq ft in a way that I want to double-check. The `int(-(-x // 100))` pattern is fine for 330 sq ft per 100 gpd, but the division comes before the rounding. Let me trace through...
+But the script also rounds up to whole sq ft in a way that I want to double-check. The `int(-(-x // 100))` pattern is fine for 330 sq ft per 100 gpd, but the division comes before the rounding. Let me trace through.
 
 Actually I think the output is correct. Disregard unless someone else sees a discrepancy. Filing this as a "verify" item rather than a confirmed bug.
 
@@ -43,4 +43,4 @@ Thurber clay, Palo Pinto County. Looking at the math because I'm quoting a 4-bed
 
 ---
 
-*Out West Septic — outwestseptic.com — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298*

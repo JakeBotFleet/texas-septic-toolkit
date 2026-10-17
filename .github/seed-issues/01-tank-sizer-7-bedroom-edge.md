@@ -3,8 +3,6 @@ title: "[bug] Tank sizer doesn't handle 7-bedroom edge case correctly"
 labels: ["bug"]
 ---
 
-**What happened**
-
 I tried to size a tank for a 7-bedroom home and the recommended size came back as 1500 gal, which I think is the 5-6 bedroom recommendation. Let me re-check the table.
 
 The TCEQ Chapter 285 table says:
@@ -48,5 +46,5 @@ Palo Pinto County, 7-bedroom custom home on a ranch property. The customer is go
 
 ---
 
-Filed by: a TCEQ-licensed installer using the toolkit on a real job
-*Out West Septic — TCEQ OSSF Installer I — OS0041298*
+Filed by a TCEQ-licensed installer using the toolkit on a real job
+*Out West Septic, TCEQ OSSF Installer I, OS0041298*

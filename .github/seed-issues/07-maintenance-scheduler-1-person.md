@@ -3,7 +3,7 @@ title: "[bug] Maintenance scheduler doesn't handle 1-person households well"
 labels: ["bug"]
 ---
 
-For a 1-person household with a 1000-gal tank, the recommended pump interval comes back as 5.5 years. That feels short — a single occupant generates far fewer solids than a 2-person household.
+For a 1-person household with a 1000-gal tank, the recommended pump interval comes back as 5.5 years. That feels short. A single occupant generates far fewer solids than a 2-person household.
 
 **Script/file**
 
@@ -45,4 +45,4 @@ Palo Pinto County, single-occupant home. Customer is on a well.
 
 ---
 
-*Out West Septic — outwestseptic.com — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298*

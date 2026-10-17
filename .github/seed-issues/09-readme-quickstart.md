@@ -32,4 +32,4 @@ First-time visitors don't read the long version. A 4-line quickstart gets them r
 
 ---
 
-*Out West Septic — outwestseptic.com — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298*

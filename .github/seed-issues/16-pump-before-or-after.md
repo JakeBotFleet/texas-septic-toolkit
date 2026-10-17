@@ -14,7 +14,7 @@ The home is on the market, contract is in option period, and I'm doing the septi
 
 **My current thinking**
 
-I tell buyers to **wait** for my inspection rather than pump first. Reasons:
+I tell buyers to wait for my inspection rather than pump first. Reasons:
 
 - If the tank is overdue for pumping, that's a finding on the report (worth knowing).
 - Pumping the tank right before the inspection removes the evidence of overdue pumping.
@@ -33,4 +33,4 @@ Palo Pinto County, 1980s ranch home, original septic system, real estate transac
 
 ---
 
-*Out West Septic — outwestseptic.com — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298*

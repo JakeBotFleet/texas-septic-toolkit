@@ -46,4 +46,4 @@ Palo Pinto County, 4-bedroom home with a high-usage pattern (large family, water
 
 ---
 
-*Out West Septic — outwestseptic.com — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298*

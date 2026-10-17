@@ -15,7 +15,7 @@ The current `tank_replacement` assumes the existing drainfield works. On real jo
 
 **Why**
 
-The current `tank_replacement` range is $2,500–$5,000. If I quote that and find out on day 2 that the drainfield is borderline, I'm going to come back to the customer with a $4k–$10k change order. Better to flag the risk upfront.
+The current `tank_replacement` range is $2,500-$5,000. If I quote that and find out on day 2 that the drainfield is borderline, I'm going to come back to the customer with a $4k-$10k change order. Better to flag the risk upfront.
 
 **Affected files**
 
@@ -25,9 +25,9 @@ The current `tank_replacement` range is $2,500–$5,000. If I quote that and fin
 
 ```
 python outwestseptic_cost_estimator.py tank_replacement --drainfield-condition marginal
-# Output range adjusts upward to $3,500–$7,000 with a note about drainfield risk
+# Output range adjusts upward to $3,500-$7,000 with a note about drainfield risk
 ```
 
 ---
 
-*Out West Septic — outwestseptic.com — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298*

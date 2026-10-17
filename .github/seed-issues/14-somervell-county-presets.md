@@ -26,4 +26,4 @@ Somervell County is south of Hood County. County seat is Glen Rose. Towns includ
 
 ---
 
-*Out West Septic — outwestseptic.com — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298*

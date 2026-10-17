@@ -23,8 +23,8 @@ Filing with an outdated form revision is the kind of small detail that gets appl
 
 **Context**
 
-I've been bitten by this twice in Palo Pinto County — DR rejects the application, "we're on revision 4 now, not 3," two weeks of waiting.
+I've been bitten by this twice in Palo Pinto County. DR rejects the application, "we're on revision 4 now, not 3," two weeks of waiting.
 
 ---
 
-*Out West Septic — outwestseptic.com — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298*
