@@ -33,4 +33,4 @@ Generated a 2-page report from a Palo Pinto County job that ran 8 holes. Both pa
 
 ---
 
-*Out West Septic — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, TCEQ OSSF Installer I, OS0041298*

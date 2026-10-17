@@ -55,4 +55,4 @@ python scripts/outwestseptic_soil_lookup.py --county "Palo Pinto County TX"
 
 ---
 
-*Out West Septic — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, TCEQ OSSF Installer I, OS0041298*

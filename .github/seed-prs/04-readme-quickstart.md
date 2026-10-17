@@ -39,4 +39,4 @@ Ran `python scripts/outwestseptic_tank_sizer.py 3` after `pip install -r require
 
 ---
 
-*Out West Septic — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, TCEQ OSSF Installer I, OS0041298*

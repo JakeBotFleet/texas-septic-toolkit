@@ -20,7 +20,7 @@ A 1-person household should not be expected to pump at the same rate as a 2-pers
      ...
 +    # Note: the BASE_INTERVAL_TABLE is keyed starting at household=2.
 +    # 1-person households round to the 2-person row by default.
-+    # This is intentional — pump intervals below 2-person are not
++    # This is intentional. Pump intervals below 2-person are not
 +    # well-documented in TCEQ/AgriLife guidance and we use the
 +    # conservative estimate.
 ```
@@ -34,4 +34,4 @@ python scripts/outwestseptic_maintenance_scheduler.py 1000 1
 
 ---
 
-*Out West Septic — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, TCEQ OSSF Installer I, OS0041298*

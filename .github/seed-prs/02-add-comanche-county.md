@@ -29,4 +29,4 @@ I researched the current DR contact before filing this. Routing is via the TCEQ 
 
 ---
 
-*Out West Septic — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, TCEQ OSSF Installer I, OS0041298*

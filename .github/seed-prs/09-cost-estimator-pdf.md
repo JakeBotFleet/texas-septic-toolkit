@@ -50,4 +50,4 @@ python scripts/outwestseptic_cost_estimator.py new_install --pdf estimate.pdf
 
 ---
 
-*Out West Septic — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, TCEQ OSSF Installer I, OS0041298*

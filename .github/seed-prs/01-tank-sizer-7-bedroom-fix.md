@@ -53,4 +53,4 @@ Ran on Python 3.10, 3.11, 3.12. Output matches TCEQ §285.32 minimum table.
 
 ---
 
-*Out West Septic — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, TCEQ OSSF Installer I, OS0041298*

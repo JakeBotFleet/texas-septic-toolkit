@@ -9,8 +9,8 @@ Closes #3
 
 Adds two new soil series to `outwestseptic_soil_lookup.py`'s `SOIL_PRESETS` table:
 
-- **Bolar** — clay loam, moderately well drained, typical perc 25 min/in, bedrock 36 in. Marginal conventional.
-- **Maloterre** — fine sandy loam, well drained, typical perc 15 min/in, bedrock 48 in. Standard conventional.
+- **Bolar.** Clay loam, moderately well drained, typical perc 25 min/in, bedrock 36 in. Marginal conventional.
+- **Maloterre.** Fine sandy loam, well drained, typical perc 15 min/in, bedrock 48 in. Standard conventional.
 
 Both common in Wise County, TX.
 
@@ -35,4 +35,4 @@ Both render correctly.
 
 ---
 
-*Out West Septic — TCEQ OSSF Installer I — OS0041298*
+*Out West Septic, TCEQ OSSF Installer I, OS0041298*
