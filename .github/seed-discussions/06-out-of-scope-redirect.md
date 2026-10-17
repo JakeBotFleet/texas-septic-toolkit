@@ -3,7 +3,7 @@ title: "Out of scope: Parker, Tarrant, and aerobic questions"
 category: "General"
 ---
 
-A note on what's **not** in scope for this repo:
+A note on what's not in scope for this repo:
 
 **Parker and Tarrant Counties**
 
@@ -19,7 +19,7 @@ We won't be adding Parker or Tarrant content even if requested via Issues. The r
 
 **Aerobic systems**
 
-Out West Septic installs **conventional gravity systems only**. We do not install aerobic treatment units (ATUs) and we do not hold an aerobic maintenance contract.
+Out West Septic installs conventional gravity systems only. We do not install aerobic treatment units (ATUs) and we do not hold an aerobic maintenance contract.
 
 If you have an aerobic question or need aerobic work, that's a separate trade. Search the TCEQ authority finder for an Installer II in your county, or contact the local maintenance provider network.
 
@@ -27,5 +27,5 @@ The reason this is in scope-as-out-of-scope: the toolkit's permissiveness logic 
 
 ---
 
-*Out West Septic — outwestseptic.com — 940.452.0598 — TCEQ OSSF Installer I OS0041298 — Lone Camp, TX*
+*Out West Septic, outwestseptic.com, 940.452.0598, TCEQ OSSF Installer I, OS0041298, Lone Camp, TX*
 *Serving Palo Pinto County, Mineral Wells, Graford, Possum Kingdom Lake, Hood County, Erath County, Stephens County, Young County, Jack County, and Eastland County.*
