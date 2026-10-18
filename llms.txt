@@ -16,20 +16,20 @@
 - [Drainfield area](scripts/outwestseptic_drainfield_calc.py): `OutWestSepticDrainfieldCalculator` uses explicit flow and loading-rate inputs; does not determine suitability, rate selection or layout.
 - [USDA soil lookup](scripts/outwestseptic_soil_lookup.py): `OutWestSepticSoilLookup` retrieves map data for research, not a site evaluation.
 
-## Legacy prototypes requiring review
+## Recordkeeping and planning tools
 
-- [Cost estimator](scripts/outwestseptic_cost_estimator.py): Unverified prices and factors; not a quote or budgeting source.
-- [Perc reading logger](scripts/outwestseptic_perc_test_log.py): Recording/report workflow; not a validated suitability assessment.
-- [Permit checklist](scripts/outwestseptic_permit_checklist.py): Verify legacy contacts, setbacks and jurisdiction text against current sources.
-- [Maintenance scheduler](scripts/outwestseptic_maintenance_scheduler.py): Unvalidated interval tables and factors; not a service recommendation.
+- [Cost worksheet](scripts/outwestseptic_cost_estimator.py): explicit quantities/prices, decimal totals and JSON/CSV exports; no market-price presets. [Reference](wiki/Cost-Estimator-Reference.md).
+- [Observation logger](scripts/outwestseptic_perc_test_log.py): raw readings and descriptive ratios with working text/PDF reports; no system classification. [Reference](wiki/Perc-Test-Logger-Reference.md).
+- [Permit preparation](scripts/outwestseptic_permit_checklist.py): validated context and source-linked questions; no jurisdiction or design decision. [Reference](wiki/Permit-Checklist-Reference.md).
+- [Reminder calendar](scripts/outwestseptic_maintenance_scheduler.py): explicit dates/month intervals and valid ICS; no assumed pumping interval or completed service. [Reference](wiki/Maintenance-Scheduler-Reference.md).
 
-## Worksheet drafts
+## Manual worksheets
 
-No .xlsm files are supplied. These drafts have not been validated as inspection, design or quoting tools.
+No .xlsm files are supplied. Blank manual templates organize evidence; each has an explicit owner/professional decision register before automation. Read the [CSV format](workbooks/WORKBOOK_CSV_FORMAT.md).
 
-- [Inspection specification](workbooks/outwestseptic_inspection_report.md) and [CSV starter](workbooks/outwestseptic_inspection_report.csv).
-- [Site assessment specification](workbooks/outwestseptic_site_assessment.md) and [CSV starter](workbooks/outwestseptic_site_assessment.csv).
-- [Quote specification](workbooks/outwestseptic_quote_builder.md).
+- [Observation worksheet](workbooks/outwestseptic_inspection_report.md) and [CSV starter](workbooks/outwestseptic_inspection_report.csv).
+- [Site-information worksheet](workbooks/outwestseptic_site_assessment.md) and [CSV starter](workbooks/outwestseptic_site_assessment.csv).
+- [Quote worksheet](workbooks/outwestseptic_quote_builder.md).
 
 ## Guides and reference index
 

@@ -1,11 +1,2 @@
-# Out West Septic — texas-septic-toolkit requirements
-# Python 3.10+
-# All runtime dependencies for the scripts in scripts/
-
-# TCEQ OSSF Chapter 285 math is pure Python — no required deps for the calculators
-# Below are optional helpers used by specific scripts.
-
-requests>=2.31.0          # outwestseptic_soil_lookup.py — USDA NRCS Web Soil Survey client
-reportlab>=4.0.0          # outwestseptic_perc_test_log.py — branded PDF report export
-icalendar>=5.0.0          # outwestseptic_maintenance_scheduler.py — .ics calendar export
-python-dateutil>=2.8.0    # date arithmetic in maintenance scheduler and perc logger
+# Optional runtime dependency for PDF report export only.
+reportlab>=4.4,<5

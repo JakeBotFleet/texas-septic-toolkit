@@ -1,118 +1,88 @@
-# Out West Septic — Quote Builder Workbook Spec
+# Out West Septic manual quote worksheet
 
-**Out West Septic — outwestseptic.com**
-**TCEQ OSSF Installer I | OS0041298 | Lone Camp, TX**
-**Owner: James "Tanner" Coupland | 940.452.0598**
-**Serving Palo Pinto County & Rural North Texas**
+Copy this blank template into a private project record. The headings and field names are an input specification for a possible future `OutWestSepticQuoteBuilder`; no such executable class, workbook or macro is supplied here.
 
-Build spec for `outwestseptic_quote_builder.xlsm`. The quote builder is the print-ready handoff from the site assessment to the homeowner. It generates a one-page quote with line-item costs, terms, and Out West Septic branding.
+The associated project is [Out West Septic](https://outwestseptic.com). Leave contact details, credentials and signatory blank until the business confirms what belongs on the specific quote. A completed worksheet is not automatically an accepted contract or permission to construct.
 
-## Sheet 1 — Quote (single page print)
+## 1. Quote identity and scope
 
-| Cell | Label |
-|------|-------|
-| B2 | OUT WEST SEPTIC |
-| B3 | Quote |
-| B4 | TCEQ OSSF Installer I — License OS0041298 |
-| B5 | outwestseptic.com  •  940.452.0598 |
-| B7 | Customer |
-| D7 | (input — pulled from Site Assessment) |
-| B8 | Job site |
-| D8 | (input) |
-| B9 | Quote # |
-| D9 | (auto — `=TEXT(TODAY(),"yy")&"-"&TEXT(ROW(),"000")`) |
-| B10 | Issue date |
-| D10 | (auto — `=TODAY()`) |
-| B11 | Valid through |
-| D11 | (formula — `=D10+30`) |
+| Field | Value to supply | Evidence / checked by / date |
+|---|---|---|
+| Quote ID and revision | | |
+| Preparation date | | |
+| Customer / private project reference | | |
+| Project location and applicable authority | | |
+| Proposed work and system components included | | |
+| Plans, evaluation or specification version used | | |
+| Scope exclusions and work by others | | |
+| Unknown conditions and required follow-up | | |
+| Valid-through date, if approved | | |
+| Prepared by / approved business contact | | |
 
-## Sheet 2 — Line Items
+Choose a unique identifier; a worksheet row number or changing `TODAY()` value is not a stable quote identifier or issue date. A later scope or price change needs a new revision and a record of what changed.
 
-| Cell | Category | Item | Qty | Unit | Unit Cost | Subtotal |
-|------|----------|------|-----|------|-----------|----------|
-| B2 | Site Prep | Clearing (per acre) | 1 | acre | input | formula |
-| B3 | Site Prep | Excavation (per cubic yard) | input | cty | input | formula |
-| B4 | Site Prep | Fill/compaction | input | load | input | formula |
-| B5 | Site Prep | Building pad prep | 1 | each | input | formula |
-| B7 | Tank | Tank (gallons) | 1 | tank | input | formula |
-| B8 | Tank | Risers + lids | input | pair | input | formula |
-| B9 | Tank | Concrete/antifloat collar | 1 | each | input | formula |
-| B10 | Tank | Filter | 1 | each | input | formula |
-| B12 | Drainfield | Trench excavation (per foot) | input | ft | input | formula |
-| B13 | Drainfield | Gravel | input | cty | input | formula |
-| B14 | Drainfield | Pipe | input | ft | input | formula |
-| B15 | Drainfield | Fabric | input | roll | input | formula |
-| B16 | Drainfield | Distribution box | 1 | each | input | formula |
-| B17 | Drainfield | Lateral install labor | input | ft | input | formula |
-| B18 | Drainfield | Inspection ports | input | each | input | formula |
-| B20 | Permitting | TCEQ OSSF permit fee | 1 | each | input | input |
-| B21 | Permitting | DR fee (county) | 1 | each | input | input |
-| B22 | Permitting | Perc test | 1 | each | input | input |
-| B24 | Misc | Haul-off | input | load | input | formula |
-| B25 | Misc | Rock adder | input | cty | input | formula |
-| B26 | Misc | Pump truck utility (referred) | input | each | input | formula |
-| B27 | Misc | Restoration (topsoil, seed) | 1 | each | input | formula |
+## 2. Itemized inputs
 
-**Subtotal (B29):** `=SUM(F2:F27)`
+Repeat rows as needed. No line item implies that a particular service, fee, component or method is required.
 
-**Sales tax (B30):** `=B29*0.0825` (default Texas sales tax — editable)
+| ID | Description / included scope | Quantity | Unit | Unit price (USD) | Line amount (USD) | Status: included / allowance / optional | Dated source or estimate basis |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
 
-**Grand total (B31):** `=B29+B30`
+Possible categories to consider are materials, labor, equipment, site preparation, restoration and authority fees. Use the actual scope to decide which apply. Record the source and payer of an authority fee; do not add both a bundled fee and a duplicate separate charge.
 
-## Sheet 3 — Terms
+For a priced line, manually calculate quantity multiplied by unit price and record the amount. Use consistent units, nonnegative finite inputs and an agreed currency-rounding method. A missing price is unresolved, not a zero-dollar inclusion. Keep optional work outside the included total unless the quote expressly includes it. Explain every allowance and its reconciliation method.
 
-| Cell | Label |
-|------|-------|
-| B2 | Quote valid for 30 days from issue. |
-| B3 | 50% deposit due at signing; balance due on completion. |
-| B4 | Permit fees paid separately as incurred. |
-| B5 | Rock encountered during excavation is billed at the rock adder rate per cubic yard. |
-| B6 | Out West Septic installs conventional gravity septic systems only. Aerobic systems are referred. |
-| B7 | Out West Septic does not run a pump truck — pumping is the homeowner's responsibility, scheduled per the maintenance guide. |
-| B8 | Workmanship warranty: 1 year on install labor; manufacturer warranties pass through on components. |
-| B9 | Payment methods: check, cash, ACH. |
+## 3. Adjustments, tax review and totals
 
-## Sheet 4 — Print Header & Footer
+| Item | Amount (USD) | Basis / source / reviewer |
+|---|---|---|
+| Included line-item subtotal | | |
+| Authorized additions not already included | | |
+| Authorized discounts or credits | | |
+| Pre-tax quoted amount | | |
+| Tax amount to charge customer, if applicable | | |
+| Total quoted amount | | |
+| Amount due at acceptance, if approved | | |
+| Remaining payment schedule | | |
 
-- Header: Out West Septic • TCEQ OSSF Installer I OS0041298 • outwestseptic.com • 940.452.0598
-- Footer: Serving Palo Pinto County & Rural North Texas • Lone Camp, TX
-- Page numbers: yes
+Reconcile the pre-tax amount as subtotal plus additions minus credits, then add only the reviewed customer tax amount. Deposits are payments against the quoted total, not extra work charges. Identify any amount shown separately but already included in the total.
 
-## Branding
+**Do not apply a blanket 8.25% tax to the subtotal.** The [Texas Comptroller's real-property repair/remodeling guidance](https://comptroller.texas.gov/taxes/publications/94-116.php) distinguishes property use and contract structures; this worksheet does not classify a particular project. Record the classification, taxable base, applicable rate or exemption, source/date and tax reviewer's determination in the private project record. Do not treat an unknown tax amount as zero or issue a final total until the tax treatment is resolved.
 
-- Title color: Out West Septic teal `#007787`
-- Accents: orange `#cc5500`
-- Quote letterhead per cell B2-B5
+## 4. Business terms supplied by the owner
 
-## Print settings
+| Topic | Approved wording / value | Approved by / date / reference |
+|---|---|---|
+| Payment milestones and methods | | |
+| Changes to scope and authorization process | | |
+| Unforeseen site conditions / allowance reconciliation | | |
+| Permit and other work responsibilities | | |
+| Proposed scheduling and dependencies | | |
+| Warranty, exclusions and component documentation | | |
+| Quote acceptance process and authorized signatory | | |
 
-- Letter, portrait, fit to 1 page wide
-- Show gridlines: off
-- Print area: A1:G35 (one-page quote) plus optional second sheet for line-item detail if requested
+No deposit percentage, validity period, financing, warranty or response time is supplied by this template. Do not infer these terms from another project or publish an unapproved promise.
 
-## Macro stubs (optional)
+## 5. Release review
 
-```vba
-Sub GeneratePDF()
-    Dim fname As String
-    fname = ThisWorkbook.Path & Application.PathSeparator & _
-            "OutWestSeptic_Quote_" & Range("D7").Value & "_" & _
-            Format(Range("D10").Value, "yyyymmdd") & ".pdf"
-    Sheets("Quote").ExportAsFixedFormat Type:=xlTypePDF, Filename:=fname
-End Sub
+- [ ] Scope, exclusions, quantities and units match the referenced proposal/plans.
+- [ ] Every included amount has a source or clearly labeled estimate basis.
+- [ ] Optional items, allowances, fees and credits are reconciled without duplication.
+- [ ] Tax treatment and final total are reviewed; no unknown amount became zero.
+- [ ] Business terms, contact details and signatory are confirmed for this quote.
+- [ ] Revision, approval date and delivery record are retained privately.
 
-Sub EmailCopy()
-    ' Opens default mail client with the quote attached.
-    Dim fname As String
-    GeneratePDF
-    fname = ThisWorkbook.Path & Application.PathSeparator & _
-            "OutWestSeptic_Quote_" & Range("D7").Value & "_" & _
-            Format(Range("D10").Value, "yyyymmdd") & ".pdf"
-    Shell "explorer.exe """ & fname & """", vbNormalFocus
-End Sub
-```
+| Release record | Value |
+|---|---|
+| Reviewer and date | |
+| Outstanding conditions | |
+| Status: working draft / approved for issue / superseded | |
+| Approved revision | |
+| Delivery date and intended recipient | |
 
----
+## Evidence and implementation status
 
-*Out West Septic — outwestseptic.com — 940.452.0598 — TCEQ OSSF Installer I OS0041298 — Lone Camp, TX*
-*Serving Palo Pinto County, Mineral Wells, Graford, Possum Kingdom Lake, and rural North Texas*
+The tables are repository workflow recommendations, not a published tax or contract form. The Comptroller source was accessed 2026-10-18; applicability to an actual project still requires review. [Open decisions](outwestseptic_quote_builder_decisions.md) identify what is needed before automation. No PDF export, emailing, workbook calculation or professional review has been completed by this template.

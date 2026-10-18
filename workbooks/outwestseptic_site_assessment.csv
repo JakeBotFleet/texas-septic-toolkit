@@ -1,43 +1,43 @@
-sheet,field,type,default,validation,notes
-property,address,text,,,
-property,county,choice,,Palo Pinto County TX|Hood County TX|Erath County TX|Stephens County TX|Young County TX|Jack County TX|Eastland County TX,
-property,acreage,number,1.0,,
-property,existing_structure,choice,,Yes|No,
-property,bedrooms_planned,integer,3,,
-property,water_source,choice,,Private well|Community water|hauled,
-property,topography,choice,,Flat|Gently rolling|Rolling|Steep,
-property,trees_in_build_area,choice,,Yes|No,
-property,easements,choice,,Yes|No,
-property,customer_name,text,,,
-property,customer_phone,text,,,
-property,assessment_date,date,=TODAY(),,
-property,assessed_by,text,Tanner Coupland,,
-soil,series,choice,,Cisco|Thurber|Bonti-Exray|Frio|Truce|Paluxy|Windthorst|Duffau,
-soil,texture_observed,choice,,sand|sandy loam|loam|silt loam|clay loam|silty clay|clay|rocky/limestone,
-soil,depth_to_bedrock_in,integer,24,,
-soil,depth_to_water_table_in,integer,72,not observed if absent,
-soil,perc_min_per_in,number,15,,
-soil,slope_pct,number,3,,
-soil,slope_direction,choice,,away|toward|side,
-soil,surface_drainage_ok,choice,,Pass|Fail,
-soil,surface_water_features_within_50ft,choice,,None|Stock tank|Creek|Pond|Lake|River,
-soil,notes,text,,,
-design,design_flow_gpd,calc,,=bedrooms*150,
-design,recommended_tank_gal,calc,,tier lookup,
-design,absorption_area_sqft,calc,,perc table,
-design,lateral_length_ft,integer,100,,
-design,lateral_count,calc,,=absorption/lateral_sqft,
-design,trench_width_in,integer,36,,
-design,trench_depth_in,integer,24,,
-design,trench_spacing_ft,integer,6,,
-design,total_sqft_installed,calc,,=laterals*lateral_length*trench_width,
-design,total_run_length_ft,calc,,=laterals*lateral_length,
-design,footprint_width_ft,calc,,=laterals*trench_width+(laterals-1)*trench_spacing,
-cost,tank_install_usd,number,7500,,
-cost,drainfield_install_usd,number,4000,,
-cost,permit_fee_usd,number,300,,
-cost,site_prep_usd,number,2000,,
-cost,rock_adder_usd,number,500,,
-cost,subtotal_usd,calc,,=sum,
-cost,sales_tax_usd,calc,,=subtotal*0.0825,
-cost,total_usd,calc,,=subtotal+tax,
+section,record_id,field,type,unit,value,status,evidence_reference,recorded_by,recorded_on,notes
+property,project,project_id,text,,,,,,,Stable private project identifier.
+property,project,revision,text,,,,,,,Worksheet revision.
+property,project,parcel_reference,text,,,,,,,Private property and parcel record.
+property,project,county,text,,,,,,,County only; municipality is separate.
+property,project,municipality,text,,,,,,,Municipality if applicable; not inferred from county.
+property,project,authority_evidence,text,,,,,,,Applicable authority and supporting jurisdiction evidence.
+property,project,intended_use,text,,,,,,,Current/proposed use and occupancy basis.
+property,project,bedrooms,integer,count,,,,,,If relevant; no design-flow conversion.
+property,project,water_source,text,,,,,,,Document actual source and evidence.
+property,project,plans_permits,text,,,,,,,System records and versions.
+property,project,boundaries_easements,text,,,,,,,Boundary/easement evidence and limitations.
+property,project,responsible_professional,text,,,,,,,Role and qualifications relevant to agreed work.
+mapping,map_template,survey_mapunit,text,,,,,,,Duplicate this group per mapped unit; USDA area and mukey.
+mapping,map_template,mapped_components,text,,,,,,,Mapped descriptions only; not field observations.
+mapping,map_template,map_version_aoi,text,,,,,,,Source/version; retrieval date; area-of-interest reference.
+mapping,map_template,field_questions,text,,,,,,,Unresolved items for site evaluation.
+field,observation_template,location_horizon,text,,,,,,,Duplicate this group per location/horizon observation.
+field,observation_template,observed_property,text,,,,,,,Describe property evaluated by the responsible professional.
+field,observation_template,measurement_value,number,,,,,,,Known measurement only; unknown is not zero.
+field,observation_template,measurement_unit,text,,,,,,,Required with a measurement; no default depth/rate.
+field,observation_template,method_limit,text,,,,,,,Method; investigation limit; reference surface; status reason.
+separation,criterion_template,system_component,text,,,,,,,Duplicate this group per component-feature pair.
+separation,criterion_template,site_feature,text,,,,,,,Feature and private location reference.
+separation,criterion_template,required_criterion,text,,,,,,,Applicable requirement and unit; no generic default.
+separation,criterion_template,rule_edition_footnote,text,,,,,,,Exact state/local source and relevant configuration.
+separation,criterion_template,observed_planned_value,text,,,,,,,Value and unit; distinguish planned from observed.
+separation,criterion_template,measurement_basis,text,,,,,,,Evidence; measurement method; reviewer and unresolved question.
+design,inputs,flow_gpd,number,gallons/day,,,,,,Professionally supplied input and applicable source.
+design,inputs,system_configuration,text,,,,,,,Responsible professional's specified configuration.
+design,inputs,loading_rate,number,gallons/square foot/day,,,,,,If applicable; no soil/perc inference.
+design,inputs,tank_liquid_capacity,number,gallons,,,,,,If specified; not auto-selected.
+design,inputs,disposal_area,number,square feet,,,,,,If specified; not an automatic layout.
+design,inputs,layout_products,text,,,,,,,Approved planning and product references.
+design,inputs,approval_status,text,,,,,,,Actual planning/authority status; no assumption of approval.
+evidence,evidence_template,source_location,text,,,,,,,Duplicate per evidence ID; private location and version.
+questions,question_template,question,text,,,,,,,Duplicate per open question.
+questions,question_template,needed_evidence,text,,,,,,,Decision or evidence needed; responsible person/authority.
+questions,question_template,followup_status,text,,,,,,,Actual status and follow-up date.
+handoff,review,reviewer_role,text,,,,,,,Actual reviewer and role.
+handoff,review,review_date,date,,,,,,,Actual review date.
+handoff,review,revision_recipient,text,,,,,,,Revision; purpose and recipient.
+handoff,review,remaining_limitations,text,,,,,,,Unresolved conditions and approvals accompany handoff.
