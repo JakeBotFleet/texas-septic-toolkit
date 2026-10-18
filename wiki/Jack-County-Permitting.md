@@ -1,41 +1,9 @@
-# Jack County Permitting
+# How do I find the OSSF authority for a Jack County parcel?
 
-Jack County OSSF permits are issued by the Jack County Public Works department, which regulates and permits OSSF in unincorporated Jack County. Jacksboro is the county seat. Application forms were updated 2021-06-01; confirm the current revision before submitting.
+> Use [TCEQ's permitting-authority resources](https://www.tceq.texas.gov/permitting/ossf/ossf_contacts.html) and confirm jurisdiction for the exact parcel.
 
-## The permitting authority
+This page is a navigation aid. A county name alone does not establish the applicable authority, forms, fees, local rules, or exemptions. Current Jack County application details have not been independently verified here.
 
-Jack County routes OSSF permitting through Public Works. The department handles new construction and modification OSSF applications in unincorporated Jack County.
+Ask the identified office for its current application packet, local requirements, fee schedule, and inspection process. Keep its response with the project record. Near Possum Kingdom Lake, use the [BRA jurisdiction guide](../guides/possum-kingdom-lake-septic-considerations.md).
 
-- Office: Jack County Courthouse, 100 N. Main St., Jacksboro, TX
-- Phone: (940) 567-2101 (verify current number)
-- Hours: Mon to Fri 8:00am to 5:00pm
-
-Always confirm current DR and fee schedule before submitting.
-
-## What the application requires
-
-Standard TCEQ OSSF application package per Chapter 285:
-
-1. Site plan
-2. Perc test report signed by a TCEQ-licensed Installer
-3. Design calculations
-4. Application fee (county pass-through)
-5. Application form (current revision)
-
-## Towns served
-
-- Jacksboro TX. County seat.
-- Bryson TX.
-- Jermyn TX.
-- Perrin TX.
-
-## Source
-
-- Jack County Public Works: https://www.jackcounty.texas.gov/public-works
-- TCEQ authority finder: https://www6.tceq.texas.gov/oars/index.cfm?fuseaction=search.county
-
-**last_verified:** 2026-10-17
-
----
-
-*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298, Lone Camp, TX, 940.452.0598*
+See [tool inputs and limits](../guides/tool-inputs-and-sources.md). Reviewed **2026-10-18**. [Project affiliation](Out-West-Septic-Company-Reference.md).

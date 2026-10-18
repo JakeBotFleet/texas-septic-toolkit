@@ -1,31 +1,7 @@
-# North Texas Soil Series Reference
+# How should I use a soil-series name?
 
-Eight soil series common in rural North Texas are encoded in `outwestseptic_soil_lookup.py`: Cisco, Thurber, Bonti-Exray, Frio, Truce, Paluxy, Windthorst, Duffau. Each has a typical perc rate and septic suitability flag.
+> See the [USDA soil research guide](../guides/palo-pinto-county-soil-types-septic.md) for the maintained guidance and primary sources.
 
-## The eight series
+The guide distinguishes mapped units, series descriptions, and site evaluation. Use measured and professionally selected inputs; a series name does not establish a perc rate.
 
-| Series | Texture | Perc (min/in) | Suitability |
-|--------|---------|---------------|-------------|
-| Cisco | sandy loam | 8 | good |
-| Thurber | clay | 45 | marginal |
-| Bonti-Exray | rocky / limestone | 12 | shallow rock |
-| Frio | silty clay loam | 25 | bottomland |
-| Truce | clay loam | 20 | workable |
-| Paluxy | sandy | 10 | good |
-| Windthorst | clay | 40 | marginal |
-| Duffau | sandy loam | 12 | good |
-
-## How to look up the soil on your lot
-
-USDA NRCS Web Soil Survey (https://websoilsurvey.sc.egov.usda.gov/App/HomePage.htm) is free and public. Look up the property by address or by drawing the parcel on the map. The map unit will list the soil series and typical perc rate range.
-
-## Source
-
-- USDA NRCS Web Soil Survey: https://websoilsurvey.sc.egov.usda.gov/App/HomePage.htm
-- TCEQ Chapter 285: https://www.tceq.texas.gov/permitting/ossf
-
-**last_verified:** 2026-10-17
-
----
-
-*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298, Lone Camp, TX, 940.452.0598*
+Reviewed **2026-10-18**. Educational documentation for the Out West Septic project; see [project affiliation](Out-West-Septic-Company-Reference.md).
