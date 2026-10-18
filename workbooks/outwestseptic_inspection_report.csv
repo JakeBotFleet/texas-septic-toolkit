@@ -1,47 +1,34 @@
-section,field,type,validation,notes
-cover,site,text,,
-cover,date,date,,
-cover,inspector,text,Tanner Coupland,
-cover,reason,choice,Real Estate Sale|Routine Maintenance|Pre-Purchase|Lender Required|Suspected Problem|Other,
-cover,address,text,,
-cover,county,choice,Palo Pinto County TX|Hood County TX|Erath County TX|Stephens County TX|Young County TX|Jack County TX|Eastland County TX|Mineral Wells TX|Graford TX|Possum Kingdom Lake TX,
-tank,size_gal,integer,750|1000|1250|1500|2000|2500,
-tank,material,choice,Concrete|Fiberglass|Polyethylene|Steel,
-tank,age_years,integer,,
-tank,last_pumped,date,,
-tank,cracks,choice,Yes|No,
-tank,baffles,choice,Yes|No,
-tank,inlet_outlet,choice,Yes|No,
-tank,risers,choice,Yes|No,
-tank,watertight,choice,Pass|Fail,
-tank,sludge_in,number,,
-tank,scum_in,number,,
-tank,liquid_level,choice,Pass|Fail,
-drainfield,type,choice,Gravel trench|Chamber|Pipe and gravel|Pressurized,
-drainfield,age_years,integer,,
-drainfield,wet_surface,choice,Pass|Fail,
-drainfield,odors,choice,Yes|No,
-drainfield,green_grass,choice,Yes|No,
-drainfield,backup_house,choice,Yes|No,
-drainfield,backup_surface,choice,Yes|No,
-drainfield,lateral_length_ft,integer,,
-drainfield,lateral_count,integer,,
-drainfield,trenches_inspected,integer,,
-drainfield,dbox_ok,choice,Pass|Fail,
-drainfield,ports,choice,Yes|No,
-drainfield,perc_on_file,choice,Yes|No,
-site,water_within_50ft,choice,Yes|No,
-site,outdoor_smell,choice,Yes|No,
-site,pool_over_field,choice,Yes|No,
-site,recent_heavy_use,choice,Yes|No,
-site,recent_heavy_rain,choice,Yes|No,
-summary,tank_score,calc,formula,
-summary,drainfield_score,calc,formula,
-summary,site_score,calc,formula,
-summary,overall_score,calc,formula,
-summary,verdict,calc,formula PASS|CONDITIONAL|FAIL,
-notes,tank_notes,text,,
-notes,drainfield_notes,text,,
-notes,site_notes,text,,
-notes,recommended_next_steps,text,,
-notes,customer_initials,text,,
+section,record_id,field,type,unit,value,status,evidence_reference,recorded_by,recorded_on,notes
+identity,report,report_id,text,,,,,,,Assign a stable report identifier.
+identity,report,revision,text,,,,,,,Retain earlier revisions privately.
+identity,report,private_property_reference,text,,,,,,,Keep customer and location details outside the public repository.
+identity,report,observation_time,text,,,,,,,Actual observation date/time and timezone.
+identity,report,report_date,date,,,,,,,Actual preparation date; not an opening-date formula.
+identity,report,purpose,text,,,,,,,Agreed reason for the report.
+identity,report,observer_role,text,,,,,,,Record the actual observer and relevant role.
+identity,report,qualification_reference,text,,,,,,,Verified qualifications relevant to the agreed work.
+identity,report,agreed_scope,text,,,,,,,Methods; exclusions; access limitations.
+identity,report,authority_reference,text,,,,,,,Authority identification and evidence.
+records,record_template,record_type,text,,,,,,,Duplicate this group with a unique record_id per source.
+records,record_template,issuer_version,text,,,,,,,Issuer and source date/version.
+records,record_template,system_match,text,,,,,,,How the record was matched to this system; unresolved conflicts.
+observation,observation_template,component_location,text,,,,,,,Duplicate this group per observation; use a private location reference.
+observation,observation_template,observation_description,text,,,,,,,Separate direct observations from reported history.
+observation,observation_template,measurement_value,number,,,,,,,Only if actually established; unknown is not zero.
+observation,observation_template,measurement_unit,text,,,,,,,Required when a numeric measurement is supplied.
+observation,observation_template,method_or_limit,text,,,,,,,Method; access/testing limitation; measurement basis.
+observation,observation_template,status_reason,text,,,,,,,Explain not_accessed/not_tested/not_applicable/unknown as relevant.
+evidence,evidence_template,description,text,,,,,,,Duplicate this group per evidence item.
+evidence,evidence_template,source_date,text,,,,,,,Source; author; date/version.
+evidence,evidence_template,private_location,text,,,,,,,Authorized private storage reference; no public customer attachments.
+finding,finding_template,observation_ids,text,,,,,,,Duplicate this group per professional finding.
+finding,finding_template,reviewer_interpretation,text,,,,,,,Supplied by responsible professional; no automatic verdict.
+finding,finding_template,source_basis,text,,,,,,,Applicable source; edition; relevance.
+finding,finding_template,followup_responsibility,text,,,,,,,Action; responsible person; reviewer-set urgency.
+review,release,reviewer_role,text,,,,,,,Authorized reviewer and role.
+review,release,approved_revision,text,,,,,,,Exact revision approved for issue.
+review,release,review_date,date,,,,,,,Actual review date.
+review,release,remaining_limitations,text,,,,,,,Carry unresolved conditions into issued report.
+review,release,approval_reference,text,,,,,,,Supplied approval or signature reference; never prefilled.
+review,release,release_status,text,,,,,,,working_draft; approved_for_issue; or superseded.
+review,release,recipient_issue_date,text,,,,,,,Intended recipient and actual issue date.

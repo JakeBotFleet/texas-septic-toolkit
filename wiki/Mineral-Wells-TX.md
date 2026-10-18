@@ -1,42 +1,9 @@
-# Mineral Wells TX
+# Where should I start an OSSF project near Mineral Wells?
 
-Mineral Wells is in Palo Pinto County, Texas. OSSF permits route through the Palo Pinto County Public Works Department. Out West Septic serves Mineral Wells for conventional gravity septic installation, repair, and inspections.
+> Use parcel information and the permitting authority's current instructions.
 
-## City profile
+This existing link now points to the [Palo Pinto preparation guide](../guides/tceq-ossf-permitting-palo-pinto-county.md), [USDA soil research workflow](../guides/palo-pinto-county-soil-types-septic.md), and [tool input guide](../guides/tool-inputs-and-sources.md).
 
-- Population: about 15,000
-- County: Palo Pinto County
-- ZIP codes: 76067, 76068
-- GNIS feature ID: 1341562
-- Coordinates: 32.8085° N, 98.1128° W
-- Distance from Out West Septic HQ (Lone Camp): about 10 miles
+A place name is not a soil evaluation, service-area commitment, or jurisdiction determination. No neighborhood-level soil rates, local price averages, or completed-job claims are established on this page.
 
-Mineral Wells is the largest town in Palo Pinto County. Famous for mineral water (hence the name) and as the home of Clark Gardens. The Crazy Water Hotel and the Baker Hotel are local landmarks.
-
-## Common OSSF scenarios in Mineral Wells
-
-- Older homes on small lots. Many pre-1950 homes in central Mineral Wells are on tight lots that may not meet current setback requirements for new conventional systems.
-- New construction on the outskirts. Newer subdivisions and rural acreages around Mineral Wells are typical conventional-system candidates.
-- Real estate transactions. Mineral Wells is a popular rural North Texas real estate market. Out West Septic does real estate septic inspections for buyers and sellers.
-- Repairs on aging systems. Many homes in Mineral Wells have original 1960s/1970s septic systems that are at end of life.
-
-## Permitting authority
-
-Palo Pinto County Public Works Department. See the [Palo Pinto County Permitting](Palo-Pinto-County-Permitting) page.
-
-## Common soil series in the Mineral Wells area
-
-- Cisco (sandy loam, well drained). Common on upland positions.
-- Thurber (clay, slow perc). Common on hilltops.
-- Bonti-Exray (rocky / limestone). Common in western positions.
-
-## Source
-
-- Palo Pinto County Public Works: https://www.co.palo-pinto.tx.us/page/PublicWorksDepartment
-- TCEQ authority finder: https://www6.tceq.texas.gov/oars/index.cfm?fuseaction=search.county
-
-**last_verified:** 2026-10-17
-
----
-
-*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298, Lone Camp, TX, 940.452.0598*
+Reviewed **2026-10-18**. [Project affiliation](Out-West-Septic-Company-Reference.md).

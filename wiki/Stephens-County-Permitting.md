@@ -1,39 +1,9 @@
-# Stephens County Permitting
+# How do I find the OSSF authority for a Stephens County parcel?
 
-Stephens County OSSF permits are routed through the TCEQ authority finder because no current standalone county OSSF hub was verified at build time. Out West Septic confirms the current Designated Representative (DR) before filing any application in Stephens County. Breckenridge is the county seat.
+> Use [TCEQ's permitting-authority resources](https://www.tceq.texas.gov/permitting/ossf/ossf_contacts.html) and confirm jurisdiction for the exact parcel.
 
-## Permitting authority
+This page is a navigation aid. A county name alone does not establish the applicable authority, forms, fees, local rules, or exemptions. Current Stephens County application details have not been independently verified here.
 
-Stephens County does not have a verified current public OSSF hub at the county level. Permits route through the TCEQ authority finder rather than a county Public Works or Environmental Health office.
+Ask the identified office for its current application packet, local requirements, fee schedule, and inspection process. Keep its response with the project record. Near Possum Kingdom Lake, use the [BRA jurisdiction guide](../guides/possum-kingdom-lake-septic-considerations.md).
 
-- TCEQ authority finder: https://www6.tceq.texas.gov/oars/index.cfm?fuseaction=search.county
-- County seat: Breckenridge, TX
-- Phone: (254) 559-2150 (county main; verify OSSF routing)
-
-## What the application requires
-
-Standard TCEQ OSSF application package per Chapter 285:
-
-1. Site plan
-2. Perc test report signed by a TCEQ-licensed Installer
-3. Design calculations
-4. Application fee (varies by routing)
-
-## Possum Kingdom Lake parcels (Stephens County side)
-
-Some PK Lake properties are in Stephens County. Those follow the BRA OSSF jurisdiction rules, not the county rules. See the [Possum Kingdom Lake BRA Jurisdiction](Possum-Kingdom-Lake-BRA-Jurisdiction) page.
-
-## Towns served
-
-- Breckenridge TX. County seat.
-- Cisco TX (northern Stephens).
-
-## Source
-
-- TCEQ authority finder: https://www6.tceq.texas.gov/oars/index.cfm?fuseaction=search.county
-
-**last_verified:** 2026-10-17 (unresolved at build time, confirm routing before relying)
-
----
-
-*Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, OS0041298, Lone Camp, TX, 940.452.0598*
+See [tool inputs and limits](../guides/tool-inputs-and-sources.md). Reviewed **2026-10-18**. [Project affiliation](Out-West-Septic-Company-Reference.md).

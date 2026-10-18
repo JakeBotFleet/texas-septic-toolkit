@@ -1,101 +1,19 @@
-# Septic inspection checklist for buying rural property in Texas
+# What records should I request for a property with an OSSF?
 
-Out West Septic, outwestseptic.com, TCEQ OSSF Installer I, License OS0041298, Lone Camp, TX, 940.452.0598
+> Agree on the inspection scope in writing and request system records. A private inspection report is not a construction authorization or a guarantee of future performance.
 
-Buying a home in rural North Texas, in Palo Pinto County, Hood County, Erath County, anywhere west of Weatherford, almost always means buying a septic system along with the house. A real estate septic inspection is the buyer's best protection against a $10,000 surprise. This is what an Out West Septic inspection actually covers, what the report looks like, and how to read it.
+Reviewed **2026-10-18**.
 
-> Quick answer: A real estate septic inspection in Texas costs $250-$500 and takes about 60-90 minutes on site. Out West Septic signs the report as TCEQ OSSF Installer I (OS0041298). The report ends in Pass, Conditional Pass, or Fail, with line items and recommended next steps.
+Before ordering an inspection, ask the seller and permitting authority for available permits, approved plans, modification records, and operating/maintenance documents. Ask the proposed inspector to explain qualifications, accessible components, tests or observations included, exclusions, and how limitations will appear in the report.
 
-## Who orders the inspection
+A useful records checklist:
 
-In a typical rural Texas real estate transaction:
+- Parcel and system identity; match records to the property being purchased.
+- Approved use, proposed future use, and known changes.
+- Equipment, layout, service history, and unresolved repair recommendations.
+- Observed condition and inaccessible or untested components.
+- Any permit, transfer, maintenance, or further-evaluation questions for the authority.
 
-- The buyer orders the inspection, often through their realtor or directly with a TCEQ-licensed Installer.
-- The seller usually pays for the inspection if the buyer's offer includes an inspection contingency.
-- The lender may require an inspection if the home is on more than a few acres and the septic is part of the property valuation.
-- The title company doesn't usually require it, but it should be on the buyer's checklist anyway.
+Use TCEQ's [homeowner resources](https://www.tceq.texas.gov/permitting/ossf/ossfhomeowners.html) to locate the authority and licensing search. Do not assume that an installer credential alone establishes every inspection, evaluation, or design qualification.
 
-Make sure the person signing the inspection report is a current TCEQ OSSF Installer I, II, or III. Out West Septic (OS0041298) signs every inspection report we issue.
-
-## What an Out West Septic real estate inspection covers
-
-The full inspection takes about 60-90 minutes on site. We walk the lot with you (or your realtor) and check the following.
-
-### The tank
-
-- Tank location, found and exposed. If no risers are present, we may need to dig to locate the lid.
-- Tank size and material. Concrete, fiberglass, polyethylene, or steel.
-- Tank condition. Visible cracks, baffles intact, inlet and outlet intact.
-- Water level. Too high usually means drainfield failure. Too low can mean a cracked tank or a leak.
-- Sludge and scum depth, measured through the inspection port. Heavy sludge means the tank is overdue for pumping.
-- Risers present. If not, we recommend riser install at the next pump for easier future access.
-
-### The drainfield
-
-- Drainfield type. Gravel trench, chamber, pipe and gravel, or pressurized.
-- Surfacing wet spots. Any visible wet areas over the field are a red flag.
-- Odors. Sewer smell outdoors over the field is a red flag.
-- Unusually green grass over the field compared to the surrounding yard indicates effluent surfacing.
-- Backup into the house or to the surface.
-- Distribution box condition. If accessible, we check for level and intact lid.
-- Inspection ports present. If not, we recommend install.
-
-### The site
-
-- Surface water within 50 ft. Stock tanks, creeks, ponds.
-- Setbacks. Distance to well, property line, foundation, surface water, utility lines.
-- Recent heavy rain or heavy use. Could mask or mimic a problem.
-
-### Code compliance
-
-- Permit on file with the county Designated Representative. Out West Septic checks with the Palo Pinto County Public Works Department (or the equivalent DR for Hood, Erath, Stephens, Young, Jack, or Eastland County).
-- Tank and drainfield setback compliance with TCEQ Chapter 285.
-
-## What the report looks like
-
-The Out West Septic inspection report is a one-to-two-page PDF on Out West Septic letterhead with:
-
-1. Header. Out West Septic branding, TCEQ OSSF Installer I, license OS0041298, Lone Camp, TX.
-2. Property info. Address, county, inspection date, weather conditions.
-3. Tank section. Size, material, condition, water level, sludge and scum, recommendation.
-4. Drainfield section. Type, age estimate, condition, surfacing and odors, recommendation.
-5. Site section. Setbacks, surface water, recent use.
-6. Verdict. Pass, Conditional Pass, or Fail.
-7. Recommended next steps. Pumping, repair, replacement, riser install, permit follow-up.
-
-The report is signed by Tanner Coupland (OS0041298).
-
-## What the verdicts mean
-
-- Pass. System is functioning as designed, no immediate action needed. Routine maintenance per our [homeowner maintenance guide](./septic-maintenance-schedule-homeowners.md).
-- Conditional Pass. System is functioning but has issues that should be addressed soon. Common items: tank overdue for pumping, risers recommended, distribution box needs leveling, drainfield showing early signs of stress.
-- Fail. System is not functioning as designed. Common items: surfacing effluent, saturated drainfield, tank failure, code noncompliance. The report includes specific recommended repairs and a cost estimate range.
-
-## What the inspection does not cover
-
-A real estate septic inspection is not a perc test, a tank pump, or a full system replacement quote. Those are separate scopes:
-
-- Perc test. Needed for new construction or system redesign.
-- Tank pump. Referred to a local pumper.
-- Full system replacement quote. Separate site visit and perc test.
-
-If the inspection verdict is Fail and you're still in the option period, Out West Septic can quote the repair or replacement work so you have a real number to take back to the seller.
-
-## What to do with the report
-
-After the inspection:
-
-- If Pass. Proceed to closing. Schedule the first pump based on the household size and tank capacity.
-- If Conditional Pass. Negotiate the recommended repairs with the seller, or budget for them post-close.
-- If Fail. Either negotiate the seller pays for repair or replacement, or walk away if the option period is still open.
-
-Out West Septic is available for follow-up questions any time after the report. Call Tanner at 940.452.0598.
-
-## Schedule an inspection
-
-Call Tanner at 940.452.0598 or visit outwestseptic.com to schedule a real estate septic inspection in Palo Pinto County, Hood County, Erath County, or anywhere in rural North Texas. We turn reports around in 48 hours.
-
----
-
-Out West Septic, outwestseptic.com, 940.452.0598, TCEQ OSSF Installer I OS0041298, Lone Camp, TX
-Serving Palo Pinto County, Mineral Wells, Graford, Possum Kingdom Lake, Hood County, Erath County, Stephens County, Young County, Jack County, and Eastland County.
+No inspection price, duration, “pass” standard, or business report format is established here. If consulting [Out West Septic](https://outwestseptic.com), the affiliated project for this automated guide, confirm the actual service scope directly.

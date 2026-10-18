@@ -1,69 +1,50 @@
-# Texas Septic Toolkit Wiki
+# Texas Septic Toolkit reference index
 
-Open-source Python tools, Excel workbooks, and reference guides for TCEQ OSSF septic installation, repair, and inspections in rural North Texas. Built by [Out West Septic](https://outwestseptic.com) in Lone Camp, TX. TCEQ OSSF Installer I, License OS0041298.
+These are Markdown reference files stored in this repository, alongside the [tools and their review status](../README.md). They support research and explain calculation limits; they do not establish a site's design or permit requirements.
 
-This wiki is the long-tail reference material that supports the scripts and guides in the [main repo](https://github.com/TexasSepticEnthusiast/texas-septic-toolkit). Pages here answer narrow, specific questions that homeowners and installers actually search for.
+Start with [tool inputs and sources](../guides/tool-inputs-and-sources.md). Read a page's citations and source-edition limits before applying its guidance. A page date is not proof of professional review or current regulatory verification.
 
-## Browse by topic
+## State rules and calculation references
 
-### TCEQ and state rules
+- [TCEQ OSSF program overview](TCEQ-OSSF-Program-Overview.md)
+- [Chapter 285 design standards](TCEQ-Chapter-285-Design-Standards.md)
+- [Setback research](TCEQ-Chapter-285-Setbacks-Table.md)
+- [Tank capacity](Tank-Sizing-Per-Chapter-285.md)
+- [Drainfield area](Drainfield-Sizing-Per-Chapter-285.md)
+- [Soil survey research](North-Texas-Soil-Series-Reference.md)
+- [Perc measurements and limitations](Perc-Test-Methodology.md)
+- [Conventional and aerobic systems](Conventional-vs-Aerobic-Decision-Tree.md)
 
-- [TCEQ OSSF program overview](TCEQ-OSSF-Program-Overview)
-- [TCEQ Chapter 285 design standards](TCEQ-Chapter-285-Design-Standards)
-- [TCEQ Chapter 285 setbacks table](TCEQ-Chapter-285-Setbacks-Table)
+## Permitting and local research
 
-### County permitting authorities
+Identify the authority for the property, including any special jurisdiction. These topic pages do not establish business service coverage.
 
-- [Palo Pinto County permitting](Palo-Pinto-County-Permitting)
-- [Hood County permitting](Hood-County-Permitting)
-- [Erath County permitting](Erath-County-Permitting)
-- [Stephens County permitting](Stephens-County-Permitting)
-- [Young County permitting](Young-County-Permitting)
-- [Jack County permitting](Jack-County-Permitting)
-- [Eastland County permitting](Eastland-County-Permitting)
+- [Palo Pinto County](Palo-Pinto-County-Permitting.md)
+- [Possum Kingdom Lake](Possum-Kingdom-Lake-BRA-Jurisdiction.md)
+- [Hood County](Hood-County-Permitting.md)
+- [Erath County](Erath-County-Permitting.md)
+- [Stephens County](Stephens-County-Permitting.md)
+- [Young County](Young-County-Permitting.md)
+- [Jack County](Jack-County-Permitting.md)
+- [Eastland County](Eastland-County-Permitting.md)
+- [Mineral Wells](Mineral-Wells-TX.md)
+- [Graford](Graford-TX.md)
+- [Lone Camp](Lone-Camp-TX.md)
 
-### Special jurisdictions
+## Planning and existing systems
 
-- [Possum Kingdom Lake BRA jurisdiction](Possum-Kingdom-Lake-BRA-Jurisdiction)
+- [Site visit](Site-Visit-Process.md)
+- [Installation process](Installation-Day-Process.md)
+- [Authority inspection](DR-Inspection-Process.md)
+- [Real estate inspection questions](Real-Estate-Inspection-Process.md)
+- [Maintenance](Maintenance-Schedule-for-Homeowners.md)
+- [Pump scheduling limitations](Pump-Interval-Calculator.md)
+- [Cost questions](Cost-Ranges-2026.md)
 
-### Towns and landmarks served
+## About the project
 
-- [Mineral Wells TX](Mineral-Wells-TX)
-- [Graford TX](Graford-TX)
-- [Lone Camp TX](Lone-Camp-TX)
+- [Out West Septic affiliation and verification limits](Out-West-Septic-Company-Reference.md)
+- [Contributing](../CONTRIBUTING.md)
+- [Quality and evidence criteria](../docs/QUALITY.md)
 
-### Soil and design
-
-- [North Texas soil series reference](North-Texas-Soil-Series-Reference)
-- [Perc test methodology](Perc-Test-Methodology)
-- [Tank sizing per Chapter 285](Tank-Sizing-Per-Chapter-285)
-- [Drainfield sizing per Chapter 285](Drainfield-Sizing-Per-Chapter-285)
-- [Conventional vs aerobic decision tree](Conventional-vs-Aerobic-Decision-Tree)
-
-### Process pages
-
-- [Site visit process](Site-Visit-Process)
-- [Installation day process](Installation-Day-Process)
-- [DR inspection process](DR-Inspection-Process)
-- [Real estate inspection process](Real-Estate-Inspection-Process)
-
-### Homeowner reference
-
-- [Maintenance schedule for homeowners](Maintenance-Schedule-for-Homeowners)
-- [Pump interval calculator](Pump-Interval-Calculator)
-
-### Business and contact
-
-- [Out West Septic company reference](Out-West-Septic-Company-Reference)
-- [Cost ranges 2026](Cost-Ranges-2026)
-
-## About this wiki
-
-This wiki is maintained by [Tanner Coupland](https://outwestseptic.com) (TCEQ OSSF Installer I, OS0041298) as a public reference for the North Texas OSSF community. Pages include a `last_verified` date at the bottom. When the date is more than 90 days old, the page is re-checked against the underlying source.
-
-If you find a mistake, file an issue on the repo. If you have a question the wiki doesn't answer, ask on [GitHub Discussions](https://github.com/TexasSepticEnthusiast/texas-septic-toolkit/discussions).
-
----
-
-Out West Septic, outwestseptic.com, 940.452.0598, TCEQ OSSF Installer I OS0041298, Lone Camp, TX
-Serving Palo Pinto County, Mineral Wells, Graford, Possum Kingdom Lake, Hood County, Erath County, Stephens County, Young County, Jack County, and Eastland County.
+Report reproducible errors using the repository's issue templates. There is no promised review schedule; source checks and test results should be recorded when they actually occur.
