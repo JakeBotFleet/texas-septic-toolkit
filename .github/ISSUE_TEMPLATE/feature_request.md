@@ -1,27 +1,32 @@
 ---
 name: Feature request
-about: Suggest a feature for a script, workbook, or guide
+about: Propose a scoped improvement with an evidence and validation plan
 title: "[feature] "
 labels: enhancement
 ---
 
-**What's missing**
+<!-- Public issue: use hypothetical examples without private customer or site details. -->
 
-<!-- What would you like to see added? -->
+**Problem**
 
-**Why**
+<!-- Describe the workflow or limitation. Do not invent customer experience or field use. -->
 
-<!-- What real-world workflow is this solving? Are you using this on a job? -->
+**Proposed behavior**
+
+<!-- Inputs, units, outputs and useful error behavior. Identify unsupported uses. -->
 
 **Affected files**
 
-<!-- e.g. outwestseptic_drainfield_calc.py, the site assessment workbook -->
+<!-- Existing files or a proposed location. -->
 
-**North Texas context (optional)**
+**Sources and uncertainty**
 
-<!-- Palo Pinto County, Hood County, Erath, Stephens, Young, Jack, Eastland, or other? -->
+<!-- Link applicable primary sources and sections/editions. Identify facts that still need verification. A proposal is not a verified implementation. -->
 
----
+**Validation plan**
 
-*Out West Septic — outwestseptic.com*
-*TCEQ OSSF Installer I | OS0041298 | Lone Camp, TX*
+<!-- Boundary cases, regression checks, source checks and an end-to-end example needed before claiming this works. -->
+
+**Attribution**
+
+<!-- Disclose automated assistance and relevant project/business affiliation. -->

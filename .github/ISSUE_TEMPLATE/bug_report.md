@@ -1,37 +1,32 @@
 ---
 name: Bug report
-about: Report a calculation or output bug in a script, workbook, or guide
+about: Report a reproducible calculation, output or documentation defect
 title: "[bug] "
 labels: bug
 ---
 
-**What happened**
+<!-- Public issue: use synthetic inputs. Remove customer names, addresses, coordinates, private notes and credentials from logs. -->
 
-<!-- What did you run, and what did you expect vs what you got? -->
+**Affected file and version**
 
-**Script or file**
+<!-- File path, commit SHA/release, Python version and operating system. -->
 
-<!-- e.g. outwestseptic_tank_sizer.py, or the inspection_report workbook -->
+**Steps and input**
 
-**Input**
+<!-- Minimal command or code that reproduces the issue; include units. Mark sample data as synthetic. -->
 
-<!-- Paste the exact input that produced the bug -->
+**Actual result**
 
-**Output**
+<!-- Include the relevant output or error. -->
 
-<!-- Paste the actual output -->
+**Expected result and evidence**
 
-**Environment**
+<!-- Show an independent calculation or describe the expected behavior. For a regulatory claim, link the primary source, section/table and edition. State any uncertainty. -->
 
-- Python version: <!-- 3.10, 3.11, 3.12, 3.13 -->
-- OS: <!-- Windows / macOS / Linux -->
-- TCEQ Chapter 285 reference: <!-- if known -->
+**Impact and limits**
 
-**Context**
+<!-- Explain what this prevents you from doing. Do not include private site or customer details. -->
 
-<!-- Where in North Texas are you using this? Palo Pinto County, Hood, Erath, etc.? -->
+**Checks performed**
 
----
-
-*Out West Septic — outwestseptic.com*
-*TCEQ OSSF Installer I | OS0041298 | Lone Camp, TX*
+<!-- List commands you actually ran. Distinguish observed behavior from a proposed test. -->
