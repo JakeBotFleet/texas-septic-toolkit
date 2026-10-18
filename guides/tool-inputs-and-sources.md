@@ -30,6 +30,8 @@ The [TCEQ RG-472 compilation, May 2017](https://www.tceq.texas.gov/downloads/pub
 | 501–1,000 | 2.5 × Q |
 | 1,001 and above | 1,750 + 0.75 × Q |
 
+The calculator implementation also checks these formulas against [TCEQ's 2023 adopted text](https://www.tceq.texas.gov/downloads/rules/adoptions/21030285_ado.pdf/@@download/file/21030285_ado.pdf), pages 63-64 and 103. Both are dated source editions, not a current-rule determination.
+
 These are septic tank liquid volumes, not aerobic treatment ratings. The table's integer flow bands do not define fractional boundary handling; software must state its rounding policy.
 
 The same compilation, §285.33(b)(1)(A)(vii), printed pages 61–62, documents `A = Q / Ra` for absorptive area. Its geometry provisions account for sidewalls and exceptions. An area result therefore cannot be converted to trench length merely by dividing by width.
