@@ -95,7 +95,7 @@ That check validates blank-template structure, not completed customer records or
 |---|---|
 | Calculation inputs and evidence | [Tool inputs and sources](guides/tool-inputs-and-sources.md) |
 | Permitting | [Palo Pinto County](guides/tceq-ossf-permitting-palo-pinto-county.md), [Possum Kingdom Lake](guides/possum-kingdom-lake-septic-considerations.md) |
-| Soils and system choices | [Soil research](guides/palo-pinto-county-soil-types-septic.md), [conventional and aerobic systems](guides/conventional-vs-aerobic-septic-texas.md) |
+| Soils and system choices | [Soil research](guides/palo-pinto-county-soil-types-septic.md), [conventional and aerobic systems](guides/conventional-vs-aerobic-septic-texas.md), [aerobic maintenance contracts](guides/aerobic-system-maintenance-contract-texas.md) |
 | Project planning | [Cost questions](guides/septic-costs-north-texas-2026.md), [site preparation](guides/land-clearing-site-prep-before-septic.md), [installation process](guides/what-to-expect-septic-install-day.md) |
 | Existing systems | [Inspection questions](guides/septic-inspection-checklist-texas-real-estate.md), [maintenance](guides/septic-maintenance-schedule-homeowners.md), [warning signs](guides/septic-warning-signs-when-to-call.md) |
 
